@@ -17,3 +17,15 @@ yarn add @bridged.xyz/design-file-converter
 
 ## Is it free to use?
 Damn it is. I mean, I heard some guys are charging money for this stuff. what a grinch.
+
+
+## Supported operations
+- xd to sketch
+- xd to figma
+- xd to bridged
+- figma to sketch
+- figma to xd
+- figma to bridged
+- sketch to figma
+- sketch to xd
+- sketch to bridged
